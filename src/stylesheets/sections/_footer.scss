@@ -12,7 +12,7 @@
 
   &__icon {
     width: 2rem;
-    stroke: $orange;
+    stroke: $teal;
     padding-top: 0.5rem;
 
     @include media-breakpoint-up(sm) {
@@ -34,7 +34,7 @@
       }
 
       &:hover {
-        color: rgba($secondary, .6);
+        color: rgba($yellow, .6);
       }
     }
 
@@ -65,7 +65,7 @@
     }
 
     &:hover {
-      color: $primary;
+      color: $yellow;
     }
   }
 }
@@ -85,7 +85,7 @@
       text-decoration: none;
 
       &:hover {
-        color: $primary;
+        color: $yellow;
       }
     }
   }
@@ -104,7 +104,7 @@
       text-decoration: none;
 
       &:hover {
-        color: $primary;
+        color: $yellow;
         text-decoration: underline;
       }
     }
@@ -122,7 +122,7 @@
   z-index: 9999;
 
   i {
-    color: $white;
+    color: $yellow;
     font-size: 1rem;
     @include absoluteCenter;
   }

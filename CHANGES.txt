@@ -1,1 +1,10 @@
 TODO: List here all the changes you made to given template to adapt it to your needs
+1. Changed the fill in the stars on the ratings to reflect a satisfied client.
+2. Changed the logo to something more personal.
+3. Removed some extra content in the footer section. 
+4. Increased the size of text and icons in the testimonials section to make it easier to read.
+5. Removed the quote icons in the testimonials section. Wouldnt meet inline with text.
+6. Changed button colors to stand out among the theme colors.
+7. Changed hover elements color in the footer section.
+8. Changed font size in the FAQ. So it is easier to read. 
+9. Changed font size in the navbar to make it stand out. 
